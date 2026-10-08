@@ -1,0 +1,139 @@
+[
+  {
+    "poi_id": "P0051",
+    "score": 0.9658,
+    "preference_weight": 1.0,
+    "context_compatibility": 1.0,
+    "confidence": 0.36,
+    "name": "Interactive Experience #0051",
+    "category": "Activity",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for car",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0013",
+    "score": 0.871,
+    "preference_weight": 0.872,
+    "context_compatibility": 1.0,
+    "confidence": 0.3,
+    "name": "Garden #0013",
+    "category": "Nature/Outdoor",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for car",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0030",
+    "score": 0.8372,
+    "preference_weight": 0.8053,
+    "context_compatibility": 0.8889,
+    "confidence": 0.66,
+    "name": "Adventure Activity #0030",
+    "category": "Activity",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for car",
+      "Conveniently located relative to the trip destination"
+    ]
+  },
+  {
+    "poi_id": "P0055",
+    "score": 0.8266,
+    "preference_weight": 0.8409,
+    "context_compatibility": 0.8889,
+    "confidence": 0.47,
+    "name": "Viewpoint #0055",
+    "category": "Landmark",
+    "reasons": [
+      "Suitable for car",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0061",
+    "score": 0.8252,
+    "preference_weight": 0.802,
+    "context_compatibility": 1.0,
+    "confidence": 0.48,
+    "name": "Food Market #0061",
+    "category": "Local Market",
+    "reasons": [
+      "Within budget",
+      "Suitable for car",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0025",
+    "score": 0.7954,
+    "preference_weight": 0.8074,
+    "context_compatibility": 1.0,
+    "confidence": 0.47,
+    "name": "Hiking Trail #0025",
+    "category": "Nature/Outdoor",
+    "reasons": [
+      "Within budget",
+      "Suitable for car"
+    ]
+  },
+  {
+    "poi_id": "P0023",
+    "score": 0.7456,
+    "preference_weight": 0.6084,
+    "context_compatibility": 1.0,
+    "confidence": 0.51,
+    "name": "History Museum #0023",
+    "category": "Museum",
+    "reasons": [
+      "Within budget",
+      "Suitable for car"
+    ]
+  },
+  {
+    "poi_id": "P0026",
+    "score": 0.7087,
+    "preference_weight": 0.7513,
+    "context_compatibility": 0.7778,
+    "confidence": 0.75,
+    "name": "Garden #0026",
+    "category": "Nature/Outdoor",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for car"
+    ]
+  },
+  {
+    "poi_id": "P0021",
+    "score": 0.6906,
+    "preference_weight": 0.5901,
+    "context_compatibility": 0.8889,
+    "confidence": 0.3,
+    "name": "Interactive Experience #0021",
+    "category": "Activity",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for car",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0011",
+    "score": 0.6807,
+    "preference_weight": 0.5144,
+    "context_compatibility": 1.0,
+    "confidence": 0.58,
+    "name": "Local Hangout #0011",
+    "category": "Neighborhood Experience",
+    "reasons": [
+      "Within budget",
+      "Suitable for car"
+    ]
+  }
+]

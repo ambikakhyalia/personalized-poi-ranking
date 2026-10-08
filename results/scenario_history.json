@@ -1,0 +1,138 @@
+[
+  {
+    "poi_id": "P0062",
+    "score": 0.9229,
+    "preference_weight": 1.0,
+    "context_compatibility": 1.0,
+    "confidence": 0.65,
+    "name": "Famous Landmark #0062",
+    "category": "Landmark",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0008",
+    "score": 0.8505,
+    "preference_weight": 0.8085,
+    "context_compatibility": 1.0,
+    "confidence": 0.37,
+    "name": "Old Town #0008",
+    "category": "Historical Site",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0053",
+    "score": 0.8446,
+    "preference_weight": 0.8958,
+    "context_compatibility": 1.0,
+    "confidence": 0.75,
+    "name": "Famous Landmark #0053",
+    "category": "Landmark",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0030",
+    "score": 0.8307,
+    "preference_weight": 0.7144,
+    "context_compatibility": 1.0,
+    "confidence": 0.66,
+    "name": "Adventure Activity #0030",
+    "category": "Activity",
+    "reasons": [
+      "Within budget",
+      "Suitable for public transport",
+      "Conveniently located relative to the trip destination"
+    ]
+  },
+  {
+    "poi_id": "P0057",
+    "score": 0.7524,
+    "preference_weight": 0.5671,
+    "context_compatibility": 1.0,
+    "confidence": 0.38,
+    "name": "Food Market #0057",
+    "category": "Local Market",
+    "reasons": [
+      "Within budget",
+      "Suitable for public transport",
+      "Conveniently located relative to the trip destination"
+    ]
+  },
+  {
+    "poi_id": "P0047",
+    "score": 0.7477,
+    "preference_weight": 0.6811,
+    "context_compatibility": 1.0,
+    "confidence": 0.65,
+    "name": "Viewpoint #0047",
+    "category": "Landmark",
+    "reasons": [
+      "Within budget",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0001",
+    "score": 0.732,
+    "preference_weight": 0.774,
+    "context_compatibility": 0.7778,
+    "confidence": 0.75,
+    "name": "Monument #0001",
+    "category": "Historical Site",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0051",
+    "score": 0.7014,
+    "preference_weight": 0.5489,
+    "context_compatibility": 0.8889,
+    "confidence": 0.36,
+    "name": "Interactive Experience #0051",
+    "category": "Activity",
+    "reasons": [
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs",
+      "Conveniently located relative to the trip destination"
+    ]
+  },
+  {
+    "poi_id": "P0029",
+    "score": 0.6774,
+    "preference_weight": 0.7069,
+    "context_compatibility": 0.7778,
+    "confidence": 0.75,
+    "name": "Art Museum #0029",
+    "category": "Museum",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0023",
+    "score": 0.6752,
+    "preference_weight": 0.5454,
+    "context_compatibility": 0.8889,
+    "confidence": 0.51,
+    "name": "History Museum #0023",
+    "category": "Museum",
+    "reasons": [
+      "Suitable for public transport"
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "poi_id": "P0009",
+    "score": 0.8871,
+    "preference_weight": 1.0,
+    "context_compatibility": 0.8889,
+    "confidence": 0.32,
+    "name": "Fine Dining #0009",
+    "category": "Restaurant",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0005",
+    "score": 0.8762,
+    "preference_weight": 0.9027,
+    "context_compatibility": 1.0,
+    "confidence": 0.55,
+    "name": "Fine Dining #0005",
+    "category": "Restaurant",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0024",
+    "score": 0.8695,
+    "preference_weight": 0.9067,
+    "context_compatibility": 0.8889,
+    "confidence": 0.3,
+    "name": "Craft Market #0024",
+    "category": "Local Market",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0061",
+    "score": 0.815,
+    "preference_weight": 0.7817,
+    "context_compatibility": 1.0,
+    "confidence": 0.48,
+    "name": "Food Market #0061",
+    "category": "Local Market",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0055",
+    "score": 0.7968,
+    "preference_weight": 0.7814,
+    "context_compatibility": 0.8889,
+    "confidence": 0.47,
+    "name": "Viewpoint #0055",
+    "category": "Landmark",
+    "reasons": [
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs"
+    ]
+  },
+  {
+    "poi_id": "P0043",
+    "score": 0.7915,
+    "preference_weight": 0.7466,
+    "context_compatibility": 0.8889,
+    "confidence": 0.41,
+    "name": "Craft Market #0043",
+    "category": "Local Market",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport",
+      "Lower tourist concentration than comparable POIs",
+      "Conveniently located relative to the trip destination"
+    ]
+  },
+  {
+    "poi_id": "P0044",
+    "score": 0.7599,
+    "preference_weight": 0.6333,
+    "context_compatibility": 1.0,
+    "confidence": 0.64,
+    "name": "Food Market #0044",
+    "category": "Local Market",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Within budget",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0004",
+    "score": 0.7581,
+    "preference_weight": 0.7501,
+    "context_compatibility": 0.8889,
+    "confidence": 0.54,
+    "name": "Food Market #0004",
+    "category": "Local Market",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0006",
+    "score": 0.746,
+    "preference_weight": 0.6821,
+    "context_compatibility": 0.8889,
+    "confidence": 0.75,
+    "name": "Walking Area #0006",
+    "category": "Neighborhood Experience",
+    "reasons": [
+      "Suitable for public transport"
+    ]
+  },
+  {
+    "poi_id": "P0034",
+    "score": 0.7404,
+    "preference_weight": 0.6853,
+    "context_compatibility": 0.8889,
+    "confidence": 0.75,
+    "name": "Casual Dining #0034",
+    "category": "Restaurant",
+    "reasons": [
+      "Strong match with traveler's stated interests",
+      "Suitable for public transport"
+    ]
+  }
+]

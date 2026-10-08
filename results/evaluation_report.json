@@ -1,0 +1,11 @@
+{
+  "precision@5": 0.10400000000000001,
+  "recall@5": 0.11676190476190476,
+  "ndcg@5": 0.12970782563584093,
+  "precision@10": 0.08800000000000001,
+  "recall@10": 0.20847619047619048,
+  "ndcg@10": 0.16911815203367722,
+  "personalization": 0.951804235782564,
+  "long_tail_discovery": 0.432,
+  "n_travelers_with_ground_truth": 25
+}
